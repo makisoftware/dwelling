@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "dwellinglove",
     "public": ".",
     "ignore": [
       "firebase.json",
